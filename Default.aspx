@@ -164,7 +164,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="header-bottom-in">
 			<div class="container">
 			<div class="header-bottom-on">
-			<p class="wel"><a href="#">Welcome visitor you can login or create an account.</a></p>
+			<p class="wel"><a href="#"></a></p>
 			<div class="header-can">
 				<ul class="social-in">
 						<li><a href="#"><i> </i></a></li>
@@ -173,15 +173,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li><a href="#"><i class="skype"> </i></a></li>
 					</ul>	
 					<div class="down-top">		
-							<select class="in-drop">
-							  <option value="Dollars" class="in-of">Dollars</option>
-							  <option value="Euro" class="in-of">Euro</option>
-							  <option value="Yen" class="in-of">Yen</option>
-							</select>
-					 </div>
+							VND</div>
 					<div class="search">
 						<form>
-							<input type="text" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}" >
+							Tìm kiếm
 							<input type="submit" value="">
 						</form>
 					</div>
@@ -197,7 +192,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="content">
 				<div class="content-top">
-					<h3 class="future">FEATURED</h3>
+					<h3 class="future">Sản Phẩm</h3>
 	<div class="banner-mat">
 		<div class="container">
 			<div class="banner">
@@ -218,11 +213,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 				<div class="banner-bottom">
 					<div class="banner-matter">
-						<p>Childish Gambino - Camp Now Available for just $9.99</p> 
+						<p>Áo Dạ $9.99</p> 
 						<a href="single.html" class="hvr-shutter-in-vertical ">Purchase</a>
 					</div>
 					<div class="purchase">
-						<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2 ">Purchase</a>
+						<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2 ">Đặt</a>
 					</div>
 				</div>
 			</div>				
@@ -235,10 +230,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<a href="single.html">
                                     <img  src="images/pi.jpg" alt="" /></a>	
 								<div class="top-content">
-									<h5><a href="single.html">Mascot Kitty - White</a></h5>
+									<h5><a href="single.html">Áo Kitty - White</a></h5>
 									<div class="white">
-										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2 ">ADD TO CART</a>
-										<p class="dollar"><span class="in-dollar">$</span><span>2</span><span>0</span></p>
+										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2 ">Đặt Hàng</a>
+										<p class="dollar"><span class="in-dollar">VND</span><span>2</span><span>0</span></p>
 										<div class="clearfix"></div>
 									</div>
 
@@ -249,10 +244,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="col-md">
 								<a href="single.html"><img  src="images/pi1.jpg" alt="" />	</a>
 								<div class="top-content">
-									<h5><a href="single.html">Bite Me</a></h5>
+									<h5><a href="single.html">Áo Phông Xám</a></h5>
 									<div class="white">
-										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">ADD TO CART</a>
-										<p class="dollar"><span class="in-dollar">$</span><span>3</span><span>0</span></p>
+										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">Đặt Hàng</a>
+										<p class="dollar"><span class="in-dollar">VND</span><span>3</span><span>0</span></p>
 										<div class="clearfix"></div>
 									</div>
 								</div>							
@@ -262,10 +257,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="col-md">
 								<a href="single.html"><img  src="images/pi2.jpg" alt="" /></a>	
 								<div class="top-content">
-									<h5><a href="single.html">Little Fella</a></h5>
+									<h5><a href="single.html">Sơ Mi Cổ Bướm</a></h5>
 									<div class="white">
-										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">ADD TO CART</a>
-										<p class="dollar"><span class="in-dollar">$</span><span>5</span><span>0</span></p>
+										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">Đặt hàng</a>
+										<p class="dollar"><span class="in-dollar">VND</span><span>5</span><span>0</span></p>
 										<div class="clearfix"></div>
 									</div>
 								</div>							
@@ -275,10 +270,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="col-md">
 								<a href="single.html"><img  src="images/pi3.jpg" alt="" /></a>	
 								<div class="top-content">
-									<h5><a href="single.html">Astral Cruise</a></h5>
+									<h5><a href="single.html">Ba Lỗ Nữ</a></h5>
 									<div class="white">
-										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">ADD TO CART</a>
-										<p class="dollar"><span class="in-dollar">$</span><span>4</span><span>5</span></p>
+										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">Đặt HàngT</a>
+										<p class="dollar"><span class="in-dollar">VND</span><span>4</span><span>5</span></p>
 										<div class="clearfix"></div>
 									</div>
 								</div>							
@@ -289,7 +284,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<!---->
 				<div class="content-middle">
-					<h3 class="future">BRANDS</h3>
+					<h3 class="future">Xem</h3>
 					<div class="content-middle-in">
 					<ul id="flexiselDemo1">			
 						<li><img src="images/ap.png"/></li>
@@ -331,20 +326,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<!---->
 				<div class="content-bottom">
-					<h3 class="future">LATEST</h3>
+					<h3 class="future">chọn</h3>
 					<div class="content-bottom-in">
 					<ul id="flexiselDemo2">			
 						<li><div class="col-md men">
 								<a href="single.html" class="compare-in "><img  src="images/pi4.jpg" alt="" />
 								<div class="compare in-compare">
-									<span>Add to Compare</span>
-									<span>Add to Whislist</span>
+									<span>Đặt Hàng</span>
+									<span>Xem Hàng</span>
 								</div></a>
 								<div class="top-content bag">
-									<h5><a href="single.html">Symbolic Bag</a></h5>
+									<h5><a href="single.html">Túi</a></h5>
 									<div class="white">
-										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">ADD TO CART</a>
-										<p class="dollar"><span class="in-dollar">$</span><span>4</span><span>0</span></p>
+										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">Chọn</a>
+										<p class="dollar"><span class="in-dollar">VND</span><span>4</span><span>0</span></p>
 										<div class="clearfix"></div>
 									</div>
 								</div>							
@@ -352,14 +347,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li><div class="col-md men">
 								<a href="single.html" class="compare-in "><img  src="images/pi5.jpg" alt="" />
 								<div class="compare in-compare">
-									<span>Add to Compare</span>
-									<span>Add to Whislist</span>
+									<span>Đặt Hàng</span>
+									<span>Xem Hàng</span>
 								</div></a>	
 								<div class="top-content bag">
-									<h5><a href="single.html">Interesting Read</a></h5>
+									<h5><a href="single.html">Áo BaLo Đỏ</a></h5>
 									<div class="white">
-										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">ADD TO CART</a>
-										<p class="dollar"><span class="in-dollar">$</span><span>2</span><span>5</span></p>
+										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">Chọn</a>
+										<p class="dollar"><span class="in-dollar">VND</span><span>2</span><span>5</span></p>
 										<div class="clearfix"></div>
 									</div>
 								</div>							
@@ -367,14 +362,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li><div class="col-md men">
 								<a href="single.html" class="compare-in "><img  src="images/pi6.jpg" alt="" />
 								<div class="compare in-compare">
-									<span>Add to Compare</span>
-									<span>Add to Whislist</span>
+									<span>Đặt Hàng</span>
+									<span>Xem Hàng</span>
 								</div></a>	
 								<div class="top-content bag">
-									<h5><a href="single.html">The Carter</a></h5>
+									<h5><a href="single.html">Áo Lông</a></h5>
 									<div class="white">
-										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">ADD TO CART</a>
-										<p class="dollar"><span class="in-dollar">$</span><span>1</span><span>0</span></p>
+										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">Chọn</a>
+										<p class="dollar"><span class="in-dollar">VND</span><span>1</span><span>0</span></p>
 										<div class="clearfix"></div>
 									</div>
 								</div>							
@@ -382,14 +377,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li><div class="col-md men">
 								<a href="single.html" class="compare-in "><img  src="images/pi7.jpg" alt="" />
 								<div class="compare in-compare">
-									<span>Add to Compare</span>
-									<span>Add to Whislist</span>
+									<span>Đặt Hàng</span>
+									<span>Xem Hàng</span>
 								</div></a>	
 								<div class="top-content bag">
-									<h5><a href="single.html">Onesie</a></h5>
+									<h5><a href="single.html">Áo Mũ Vàng</a></h5>
 									<div class="white">
-										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">ADD TO CART</a>
-										<p class="dollar"><span class="in-dollar">$</span><span>6</span><span>0</span></p>
+										<a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2">Chọn</a>
+										<p class="dollar"><span class="in-dollar">VND</span><span>6</span><span>0</span></p>
 										<div class="clearfix"></div>
 									</div>
 								</div>							
@@ -441,16 +436,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="footer-top">
 				<div class="container">
 					<div class="col-md-4 footer-in">
-						<h4><i> </i>Suspendisse sed</h4>
-						<p>Aliquam dignissim porttitor tortor non fermentum. Curabitur in magna lectus. Duis sed eros diam. Lorem ipsum dolor sit amet, consectetur.</p>
+						<h4><i> </i>Tích hợp phần mềm chatlivei</h4>
+						<p>Các website Bizweb được tích hợp sẵn sàng với các phần mềm live chat 
+hàng đầu như Zopim, Subiz ..., giúp chủ cửa hàng chat với khách hàng 
+ngay trên website bất cứ khi nào.</p>
 					</div>
 					<div class="col-md-4 footer-in">
-						<h4><i class="cross"> </i>Suspendisse sed</h4>
-						<p>Aliquam dignissim porttitor tortor non fermentum. Curabitur in magna lectus. Duis sed eros diam. Lorem ipsum dolor sit amet, consectetur.</p>
+						<h4><i class="cross"> </i>Quy trình đặt hàng tự động</h4>
+						<p>Khách hàng có thể tiến hành đặt hàng trên web bất cứ khi nào. Quy trình 
+đặt hàng tự động giúp khách hàng sở hữu món đồ ưa thích chỉ sau một 
+vài thao tác đơn giản mà không cần phải gọi điện hay nhắn tin cho chủ 
+shop.</p>
 					</div>
 					<div class="col-md-4 footer-in">
-						<h4><i class="down"> </i>Suspendisse sed</h4>
-						<p>Aliquam dignissim porttitor tortor non fermentum. Curabitur in magna lectus. Duis sed eros diam. Lorem ipsum dolor sit amet, consectetur.</p>
+						<h4><i class="down"> </i>Ứng dụng Bizweb trên mobile</h4>
+						<p>Với ứng dụng Bizweb trên iOS và Android, khi có đơn hàng hay tin nhắn từ 
+khách hàng, hệ thống sẽ gửi thông báo đến điện thoại của bạn ngay lập tức. 
+Ngoài ra bạn cũng có thể up sản phẩm mới trực tiếp từ điện thoại lên 
+website mà không cần thông qua máy tính.</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -459,48 +462,55 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="footer-middle">
 				<div class="container">
 					<div class="footer-middle-in">
-						<h6>About us</h6>
-						<p>Suspendisse sed accumsan risus. Curabitur rhoncus, elit vel tincidunt elementum, nunc urna tristique nisi, in interdum libero magna tristique ante. adipiscing varius. Vestibulum dolor lorem.</p>
-					</div>
-					<div class="footer-middle-in">
-						<h6>Information</h6>
-						<ul>
-							<li><a href="#">About Us</a></li>
-							<li><a href="#">Delivery Information</a></li>
-							<li><a href="#">Privacy Policy</a></li>
-							<li><a href="#">Terms & Conditions</a></li>
+						<h6>ĐIều Cần biết</h6>
+						<ul >
+							<li><a href="#">Về chúng tôi</a></li>
+							<li><a href="#">Tính năng nổi bật</a></li>
+							<li><a href="#">Bảng giá</a></li>
+							<li><a href="#">Kho hàng </a></li>
 						</ul>
 					</div>
 					<div class="footer-middle-in">
-						<h6>Customer Service</h6>
+						<h6>Kênh Bán Hàng</h6>
 						<ul>
-							<li><a href="contact.html">Contact Us</a></li>
-							<li><a href="#">Returns</a></li>
-							<li><a href="#">Site Map</a></li>
+							<li><a href="#">Bán trên Facebook</a></li>
+							<li><a href="#">Bán tại cửa hàng
+</a></li>
+							<li><a href="#">Bán trên Sendo</a></li>
+							<li><a href="#">Bán trên Zalo và Bán trên website khác </a></li>
 						</ul>
 					</div>
 					<div class="footer-middle-in">
-						<h6>My Account</h6>
+						<h6>Dịch vụ</h6>
 						<ul>
-							<li><a href="account.html">My Account</a></li>
-							<li><a href="#">Order History</a></li>
-							<li><a href="wishlist.html">Wish List</a></li>
-							<li><a href="#">Newsletter</a></li>
+							<li><a href="contact.html">Phần mềm quản lý bán hàng</a></li>
+							<li><a href="#">Thiết bị bán hàng</a></li>
+							<li><a href="#">Thiết kế web đa ngành</a></li>
 						</ul>
 					</div>
 					<div class="footer-middle-in">
-						<h6>Extras</h6>
+						<h6>Hợp tác</h6>
 						<ul>
-							<li><a href="#">Brands</a></li>
-							<li><a href="#">Gift Vouchers</a></li>
-							<li><a href="#">Affiliates</a></li>
-							<li><a href="#">Specials</a></li>
+							<li><a href="account.html">Chương trình đối tác</a></li>
+							<li><a href="#">Nhà phát triển ứng dụng</a></li>
+							<li><a href="wishlist.html">Dành cho nhà thiết kế</a></li>
+							<li><a href="#">Tài liệu nhà phát triển</a></li>
+						</ul>
+					</div>
+					<div class="footer-middle-in">
+						<h6>Trợ giúp</h6>
+						<ul>
+							<li><a href="#">Trung tâm trợ giúp
+</a></li>
+							<li><a href="#">Tài liệu hướng dẫn</a></li>
+							<li><a href="#">Hình thức thanh toán</a></li>
+							<li><a href="#">Hướng dẫn đăng nhập</a></li>
 						</ul>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<p class="footer-class">Copyright © 2015 Modern Template by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+			<p class="footer-class">Copyright © 2017 Modern Template by  <a href="http://w3layouts.com/" target="_blank">Bán hàng Online</a> </p>
 			<script type="text/javascript">
 			    $(document).ready(function () {
 			        /*
